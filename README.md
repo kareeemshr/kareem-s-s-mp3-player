@@ -34,3 +34,5 @@ believe it or not its an mp3 player
 |flash mem(W25Q16JVSS)|1|16MB|https://jlcpcb.com/partdetail/WinbondElec-W25Q16JVSSIQ/C131025|SOIC-8_5.3x5.3mm_P1.27mm|
 |LOD(MCP1700x-330xxTT)|1|5.5V inpt 3.3V outp|https://jlcpcb.com/partdetail/MSKSEMI-MCP1700T_3302E_TT_MS/C20627188|SOT-23|
 |crystal|1|12MHZ|https://jlcpcb.com/partdetail/NDK-NX3225GA_12MHZ_STD_CRG2/C481407|Crystal_SMD_3225-4Pin_3.2x2.5mm|
+|OLED|1|0.96|https://jlcpcb.com/partdetail/HS-HS96L03W2C03/C5248080|just use a generic conn to act as the i2c pins|
+
