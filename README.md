@@ -1,11 +1,14 @@
 # kareem-s-s-mp3-player
 believe it or not its an mp3 player
 
+heres the schematic:<img width="1497" height="948" alt="image" src="https://github.com/user-attachments/assets/61e9848a-ff0a-4da3-99d9-b1c37d496050" />
+
+
+heres the pcb:<img width="689" height="927" alt="image" src="https://github.com/user-attachments/assets/0bb8b146-275e-4604-8049-69f0cb6af51c" />
 
 
 
-
-
+heres a 3d render of the pcb:<img width="673" height="939" alt="image" src="https://github.com/user-attachments/assets/e5b02e90-21f2-4fae-88ad-9d1ffb3252b2" />
 
 
 
